@@ -1,6 +1,6 @@
 FROM node:16.17
 
-WORKDIR /poly-flashloan2
+WORKDIR /
 
 ENV NODE_ENV production
 
